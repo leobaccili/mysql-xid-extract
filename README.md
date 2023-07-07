@@ -1,4 +1,4 @@
-#MYSQL XID EXTRACT
+# MYSQL XID EXTRACT
 
 Go to the mysql terminal and send this command to get the XA TRANSACTION STUCKED:
 `xa recover convert xid;`
